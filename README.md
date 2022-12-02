@@ -1,2 +1,3 @@
-# simply-calc
- Perform simlple calculations using CLI. 
+# Elegant Calculator
+
+Perform simlple calculations using CLI.
